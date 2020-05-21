@@ -1,1 +1,4 @@
-/* client/pages/trolley/trolley.wxss */
+/*  购物车css */
+.empty-image{
+   
+}
