@@ -5,4 +5,6 @@
 /* 基于自己开发  */
 .trolley-empty{
      height: 80rpx;
+     padding: 0 15rpx;
+     /* 内边距15rpx  据左边有点间距  */
 }
