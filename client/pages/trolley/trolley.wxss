@@ -7,4 +7,6 @@
 
      /*  行高注释 */
      height: 80rpx;
+     padding: 0 15rpx;
+     /* 内边距15rpx  据左边有点间距  */
 }
